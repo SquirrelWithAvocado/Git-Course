@@ -9,5 +9,10 @@ namespace MyProgram
             Console.WriteLine("Hello Git!");
             Console.WriteLine();
         }
+
+        static void Print()
+        {
+            Console.WriteLine();
+        }
     }
 }
